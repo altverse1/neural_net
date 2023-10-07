@@ -9,3 +9,5 @@ Neural Networks and Deep Learning Lab  programs
 |4|[HandWritten Classification](HandWritten%20Classification.ipynb)|26/9/23|
 |5|[Regularization](5_Regularization.ipynb)|03/10/23|
 |6|[Dropout Layers NN](6_dropout_layers.ipynb)|03/10/23|
+|7|[Sentiment Analysis](sentiment.ipynb)|07/10/23|
+|8|[Handwritten Classification Using CNN](handwritten_cnn.ipynb)|07/10/23|
