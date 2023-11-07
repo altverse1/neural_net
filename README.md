@@ -15,3 +15,4 @@ Neural Networks and Deep Learning Lab  programs
 |10|[Data Agumentation](/10_data_aug.ipynb)|10/10/23|
 |11|[Transfer Learning](11_transfer.ipynb)|31/10/23|
 |12|[Sentiment Analysis with LSTM](12_SentimentLSTM.ipynb)|31/10/23|
+|13|[Next Word Prediction using RNN and LSTM](./13_rnn_lstm_nextpred.ipynb)|07/11/23|
