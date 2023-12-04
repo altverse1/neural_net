@@ -1,4 +1,4 @@
-# neural_net
+# neural_net Practice
 Neural Networks and Deep Learning Lab  programs
 
 | Serial Number | Notebook Link                                     |
